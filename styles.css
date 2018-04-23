@@ -82,16 +82,6 @@
     vertical-align: middle;
 }
 
-.Mayfield {
-	background-color: #841617;
-	color: #fdf9D8;
-	border-radius: 5px;
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: middle;
-}
-
 #bio td {
 	color: #555555;
 }
@@ -102,9 +92,55 @@
 	font-size: 16px;
 }
 
+a {
+    color: #555555;
+    text-decoration: none;
+}
+
+a:visited 
+{
+     color:#555555;
+     text-decoration:none;   
+}
+
+a:hover 
+{
+     color:#30a2da;
+     cursor:pointer; 
+     text-decoration:none; 
+}
+
+#jumbo a {
+    color: #f0f0f0;
+    text-decoration: none;
+}
+
+#jumbo a:visited 
+{
+     color:#f0f0f0;
+     text-decoration:none;   
+}
+
+#jumbo a:hover 
+{
+     color:#30a2da;
+     cursor:pointer; 
+     text-decoration:none; 
+}
+
 .Darnold {
 	background-color: #990000;
 	color: #ffc72c;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Mayfield {
+	background-color: #841617;
+	color: #fdf9D8;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;

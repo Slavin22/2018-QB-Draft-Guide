@@ -1,0 +1,155 @@
+.jumbotron-center {
+	text-align: center;
+}
+
+#bio {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#links {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#bottomleft {
+	border-radius: 0px 0px 0px 5px;
+}
+
+#bottomright {
+	border-radius: 0px 0px 5px 0px;
+}
+
+#bio td, #bio th {
+    width: 16.66666666%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#links td, #links th {
+    width: 16.66666666%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#bio tr:nth-child(even){
+	background-color: #f0f0f0;
+}
+
+#bio th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#links th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#jumbo {
+	background-color: #555555;
+	color: #f0f0f0;
+	border-radius: 5px;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+#jumbo2 {
+	padding-top: 0px !important;
+}
+
+.space {
+	padding-bottom: 40px;
+}
+
+.img_space {
+	padding-bottom: 20px;
+}
+
+.Home {
+	background-color: #555555;
+	color: #f0f0f0;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Mayfield {
+	background-color: #841617;
+	color: #fdf9D8;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#bio td {
+	color: #555555;
+}
+
+.table_row td {
+	color: #555555 !important;
+	background-color: #f0f0f0 !important;
+	font-size: 16px;
+}
+
+.Darnold {
+	background-color: #990000;
+	color: #ffc72c;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Jackson {
+	background-color: #ad0000;
+	color: #000000;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Rosen {
+	background-color: #2d68c4;
+	color: #f2a900;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Allen {
+	background-color: #ffc425;
+	color: #492f24;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Rudolph {
+	background-color: #ff7300;
+	color: #000000;
+	border-radius: 5px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+}
+
+

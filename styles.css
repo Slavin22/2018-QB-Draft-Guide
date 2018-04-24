@@ -108,14 +108,12 @@ a {
     text-decoration: none;
 }
 
-a:visited 
-{
+a:visited {
      color:#555555;
      text-decoration:none;   
 }
 
-a:hover 
-{
+a:hover {
      color:#30a2da;
      cursor:pointer; 
      text-decoration:none; 
@@ -126,21 +124,93 @@ a:hover
     text-decoration: none;
 }
 
-#jumbo a:visited 
-{
+#jumbo a:visited {
      color:#f0f0f0;
      text-decoration:none;   
 }
 
-#jumbo a:hover 
-{
+#jumbo a:hover {
      color:#30a2da;
      cursor:pointer; 
      text-decoration:none; 
 }
 
+.panel a {
+    color: #f0f0f0;
+    text-decoration: none;
+}
+
+.panel a:visited {
+     color:#f0f0f0;
+     text-decoration:none;   
+}
+
+.panel a:hover {
+     color:#30a2da;
+     cursor:pointer; 
+     text-decoration:none; 
+}
+
+.panel p a {
+    color: #555555;
+    text-decoration: none;
+}
+
+.panel p a:visited {
+     color:#555555;
+     text-decoration:none;   
+}
+
+.panel p a:hover {
+     color:#30a2da;
+     cursor:pointer; 
+     text-decoration:none; 
+}
+
+.reference a {
+	color: #555555 !important;
+}
+
+.reference a:visited {
+	color: #555555 !important;
+}
+
+.reference a:hover {
+	color: #30a2da !important;
+}
+
 .table_row {
 	border-top: 2px solid #555555;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.nav li {
+    float: left;
+}
+
+.nav li a {
+    display: block;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav li a:hover {
+    background-color: #111111;
+    color:#30a2da;
+}
+
+.active {
+    background-color: #f0f0f0 !important;
+    color: #333333 !important;
 }
 
 .Darnold {
@@ -384,8 +454,8 @@ a:hover
 }
 
 .Silvers {
-	background-color: #919191;
-	color: #9e0531;
+	background-color: #9e0531;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;

@@ -128,6 +128,10 @@ a:hover
      text-decoration:none; 
 }
 
+.table_row {
+	border-top: 2px solid #555555;
+}
+
 .Darnold {
 	background-color: #990000;
 	color: #ffc72c;
@@ -150,7 +154,7 @@ a:hover
 
 .Jackson {
 	background-color: #ad0000;
-	color: #000000;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -180,7 +184,7 @@ a:hover
 
 .Rudolph {
 	background-color: #ff7300;
-	color: #000000;
+	color: #0f0f0f;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -190,7 +194,7 @@ a:hover
 
 .Lauletta {
 	background-color: #000066;
-	color: #990000;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -209,8 +213,8 @@ a:hover
 }
 
 .White {
-	background-color: #a8a8a8;
-	color: #c4023c;
+	background-color: #c4023c;
+	color: #0f0f0f;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -230,7 +234,7 @@ a:hover
 
 .Lee {
 	background-color: #c8102e;
-	color: #ffffff;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -240,7 +244,7 @@ a:hover
 
 .Falk {
 	background-color: #981e32;
-	color: #ffffff;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -250,7 +254,7 @@ a:hover
 
 .Litton {
 	background-color: #007631;
-	color: #000000;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -270,7 +274,7 @@ a:hover
 
 .Barrett {
 	background-color: #bb0000;
-	color: #666666;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -279,8 +283,8 @@ a:hover
 }
 
 .Shimonek {
-	background-color: #cc0000;
-	color: #000000;
+	background-color: #0f0f0f;
+	color: #cc0000;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -310,7 +314,7 @@ a:hover
 
 .Wolford {
 	background-color: #a67f31;
-	color: #000000;
+	color: #0f0f0f;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -329,8 +333,8 @@ a:hover
 }
 
 .Briscoe {
-	background-color: #f78e1e;
-	color: #004990;
+	background-color: #004990;
+	color: #f78e1e;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -340,7 +344,7 @@ a:hover
 
 .Allen2 {
 	background-color: #cd2027;
-	color: #ffffff;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -350,7 +354,7 @@ a:hover
 
 .Allen3 {
 	background-color: #9d2235;
-	color: #ffffff;
+	color: #f0f0f0;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -369,8 +373,8 @@ a:hover
 }
 
 .Silvers {
-	background-color: #9e0531;
-	color: #919191;
+	background-color: #919191;
+	color: #9e0531;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
@@ -420,7 +424,7 @@ a:hover
 
 .Linehan {
 	background-color: #b18e5f;
-	color: #000000;
+	color: #0f0f0f;
 	border-radius: 5px;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     font-weight: bold;
